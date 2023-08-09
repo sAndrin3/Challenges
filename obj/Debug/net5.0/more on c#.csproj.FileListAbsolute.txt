@@ -1,0 +1,16 @@
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#.deps.json
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#.runtimeconfig.json
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#.runtimeconfig.dev.json
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#.dll
+/home/petrolhead/more on c#/bin/Debug/net5.0/ref/more on c#.dll
+/home/petrolhead/more on c#/bin/Debug/net5.0/more on c#.pdb
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.csproj.AssemblyReference.cache
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.AssemblyInfoInputs.cache
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.AssemblyInfo.cs
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.csproj.CoreCompileInputs.cache
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.dll
+/home/petrolhead/more on c#/obj/Debug/net5.0/ref/more on c#.dll
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.pdb
+/home/petrolhead/more on c#/obj/Debug/net5.0/more on c#.genruntimeconfig.cache
