@@ -29,6 +29,9 @@
 // Gen gen = new Gen();
 // gen.Main();
 
-using Sort;
-Program program = new Program();
-program.Mean();
+// using Sort;
+// Program program = new Program();
+// program.Mean();
+
+Files files = new Files();
+files.Read();
