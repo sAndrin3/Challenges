@@ -33,5 +33,11 @@
 // Program program = new Program();
 // program.Mean();
 
-Files files = new Files();
-files.Read();
+// Files files = new Files();
+// files.Read();
+
+USSDSimulation uSSDSimulation = new USSDSimulation();
+uSSDSimulation.ShowMainMenu();
+uSSDSimulation.CheckBalance();
+uSSDSimulation.BuyDataBundles();
+uSSDSimulation.TransferAirtime();
